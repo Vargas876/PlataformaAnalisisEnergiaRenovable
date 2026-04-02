@@ -1,1 +1,4 @@
-node_modules
+simulador/node_modules/
+.env
+data/
+*.log
